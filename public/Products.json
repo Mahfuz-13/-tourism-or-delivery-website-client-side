@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "abacavir",
+      "img": "https://4.imimg.com/data4/EA/TK/ANDROID-7293429/product-500x500.jpeg",
+      "about": "Abacavir (also called Ziagen®) is used to treat infection caused by the human immunodeficiency virus (HIV).",
+      "Price": 11
+    },
+    {
+      "id": 2,
+      "name": "alendronate",
+      "img": "https://5.imimg.com/data5/SELLER/Default/2021/1/VD/XP/QO/13166357/alendate-70-500x500.jpg",
+      "about": "lendronate (also called Fosamax®) is a medicine that treats or prevents osteoporosis (weak or brittle bones).",
+      "Price": 32
+    },
+    {
+      "id": 3,
+      "name": "baclofen",
+      "img": "https://5.imimg.com/data5/BM/DF/MC/SELLER-4883151/setspas-d-500x500.jpg",
+      "about": "Baclofen (also known as Lioresal®) is a medicine that helps relax muscles and prevent muscle spasms.",
+      "Price": 23
+    },
+    {
+      "id": 4,
+      "name": "diclofenac",
+      "img": "https://emedi.com.bd/wp-content/uploads/2020/09/Diclofen-SR-Tablet-100-mg.png",
+      "about": "Diclofenac (also called Voltaren®) is a man-made steroid that works like a steroid made by the adrenal gland in your body.",
+      "Price": 32
+    },
+    {
+      "id": 5,
+      "name": "Napa",
+      "img": "https://emedi.com.bd/wp-content/uploads/2020/09/Napa-Extra-Tablet.jpg",
+      "about": "Napa (Paracetamol) is a fast acting and safe analgesic with marked antipyretic property.",
+      "Price": 8
+    },
+    {
+      "id": 6,
+      "name": "famciclovir",
+      "img": "https://5.imimg.com/data5/TN/AD/MY-18174683/famcimac-28famciclovir-500-mg-29-tablet-500x500.jpg",
+      "about": "Famciclovir (also called Famvir®) is used to treat viral infections. Famciclovir is available as 125-mg and 250-mg white round tablets and as a 500-mg white oval tablet",
+      "Price": 21
+    },
+    {
+      "id": 7,
+      "name": "fenadin 120",
+      "img": "https://sopnil.com/wp-content/uploads/2021/07/fenadin120tablet.jpg",
+      "about": "Fenadin 120mg Tablet is an anti-allergy medicine used in the treatment of allergic symptoms such as runny nose, congestion or stuffiness, sneezing, itching, swelling, and watery eyes. ",
+      "Price": 12
+    },
+    {
+      "id": 8,
+      "name": "TPC",
+      "img": "https://www.acmeglobal.com/wp-content/themes/acme/images/products/081178.jpg",
+      "about": " It is indicated in the treatment of polyneuropathy of any origin such as diabetic, alcoholic or toxic neuropathies,neuritis, cervical syndrome, shoulder-arm syndrome",
+      "Price": 11
+    }
+  ]

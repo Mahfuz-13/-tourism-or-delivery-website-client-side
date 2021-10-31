@@ -1,0 +1,12 @@
+/* Styling product containeer  */
+.product-container {
+  display: grid;
+  grid-template-columns: 1fr, 1fr, 1fr;
+  grid-gap: 20px;
+}
+
+.product-text {
+  background-color: rgba(71, 64, 64, 0.746);
+  color: antiquewhite;
+  margin-bottom: 30px;
+}

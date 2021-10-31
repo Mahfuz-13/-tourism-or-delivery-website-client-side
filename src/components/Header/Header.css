@@ -1,0 +1,13 @@
+/* Styling Header */
+.header-container {
+  background-color: black;
+}
+
+.nav-link {
+  color: wheat;
+}
+
+.pharmacy-name {
+  text-align: left;
+  color: aliceblue;
+}
